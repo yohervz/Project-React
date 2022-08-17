@@ -1,0 +1,12 @@
+.taskElement {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding: 20px;
+	padding-top: 5px;
+	padding-right: 5px;
+}
+
+.taskElementCheck {
+	padding: 10px;
+	margin-bottom: 5px;
+}
